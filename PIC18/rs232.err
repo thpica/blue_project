@@ -1,0 +1,10 @@
+Error[1105] D:\Cours\Projet Tutoré\PIC18\rs232.c 27 : symbol 'TRMT' has not been defined
+Error[1105] D:\Cours\Projet Tutoré\PIC18\rs232.c 36 : symbol 'OERR' has not been defined
+Error[1105] D:\Cours\Projet Tutoré\PIC18\rs232.c 37 : symbol 'CREN' has not been defined
+Error[1101] D:\Cours\Projet Tutoré\PIC18\rs232.c 37 : lvalue required
+Error[1105] D:\Cours\Projet Tutoré\PIC18\rs232.c 38 : symbol 'CREN' has not been defined
+Error[1101] D:\Cours\Projet Tutoré\PIC18\rs232.c 38 : lvalue required
+Error[1105] D:\Cours\Projet Tutoré\PIC18\rs232.c 41 : symbol 'RCIF' has not been defined
+Error[1101] D:\Cours\Projet Tutoré\PIC18\rs232.c 41 : lvalue required
+Warning[2058] D:\Cours\Projet Tutoré\PIC18\rs232.c 67 : call of function without prototype
+Warning[2058] D:\Cours\Projet Tutoré\PIC18\rs232.c 68 : call of function without prototype
